@@ -6,7 +6,7 @@ The leaderboard will be updated at midnight every day.
   - [Google Colab](https://colab.research.google.com/github/nomomon/chess-bot-competition/blob/main/practical.ipynb)
 - Submit your own bot and see who's bot is the best!
   - Sign in through University account
-  - Use the [template](https://github.com/Fully-Connected-Graph/chess-bot-competition/blob/main/template_bot.py) we provide
+  - Use the [template](https://github.com/Fully-Connected-Graph/chess-bot-competition/blob/main/template_bot.py) we provide or view some examples in the [bots](https://github.com/Fully-Connected-Graph/chess-bot-competition/blob/main/bots) folder
   - https://forms.gle/jszsX8SvETQWobkP6
 
 
