@@ -1,0 +1,19 @@
+white_bot,black_bot,winner,white_time,black_time,notes
+bot_number_piece,bot_piece_value,white,0.9228329658508301,0.34137582778930664,Checkmate! Winner is white
+bot_number_piece,bot_piece_value,white,0.7044870853424072,0.29267096519470215,Checkmate! Winner is white
+bot_number_piece,bot_piece_value,black,4.7156898975372314,5.780684471130371,Fivefold repetition! It's a draw.
+bot_piece_value,bot_number_piece,white,3.079643487930298,3.1475253105163574,Fivefold repetition! It's a draw.
+bot_piece_value,bot_number_piece,white,1.0075738430023193,0.608180046081543,Checkmate! Winner is white
+bot_piece_value,bot_number_piece,black,3.062854290008545,3.1936540603637695,Fivefold repetition! It's a draw.
+bot_number_piece,bot_random,black,25.075536012649536,0.011507511138916016,Fivefold repetition! It's a draw.
+bot_number_piece,bot_random,black,19.490076541900635,0.007702827453613281,Fivefold repetition! It's a draw.
+bot_number_piece,bot_random,black,16.601688146591187,0.008361577987670898,Fivefold repetition! It's a draw.
+bot_random,bot_number_piece,white,0.008614778518676758,19.489032745361328,Fivefold repetition! It's a draw.
+bot_random,bot_number_piece,white,0.009108781814575195,26.394379138946533,Fivefold repetition! It's a draw.
+bot_random,bot_number_piece,white,0.00810861587524414,17.094921588897705,Fivefold repetition! It's a draw.
+bot_piece_value,bot_random,black,11.451709032058716,0.008281469345092773,Fivefold repetition! It's a draw.
+bot_piece_value,bot_random,white,0.6353452205657959,0.00023031234741210938,Checkmate! Winner is white
+bot_piece_value,bot_random,black,14.73917007446289,0.007320880889892578,Fivefold repetition! It's a draw.
+bot_random,bot_piece_value,white,0.007135152816772461,13.312237024307251,Fivefold repetition! It's a draw.
+bot_random,bot_piece_value,white,0.006603240966796875,15.777282953262329,Fivefold repetition! It's a draw.
+bot_random,bot_piece_value,white,0.006273031234741211,13.656209230422974,Fivefold repetition! It's a draw.
