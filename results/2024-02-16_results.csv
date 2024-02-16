@@ -1,0 +1,61 @@
+white_bot,black_bot,winner,white_time,black_time,notes
+JernoIsBot__J_Beuker,Odysseus__m_lindenburger_1,white,3.155095100402832,0.1667776107788086,Checkmate! Winner is white
+JernoIsBot__J_Beuker,Odysseus__m_lindenburger_1,white,0.9044845104217529,0.08942079544067383,Checkmate! Winner is white
+JernoIsBot__J_Beuker,Odysseus__m_lindenburger_1,,6.593924283981323,0.49492835998535156,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,JernoIsBot__J_Beuker,black,0.2868926525115967,10.560138702392578,Checkmate! Winner is black
+Odysseus__m_lindenburger_1,JernoIsBot__J_Beuker,black,0.7901821136474609,11.701605796813965,Checkmate! Winner is black
+Odysseus__m_lindenburger_1,JernoIsBot__J_Beuker,black,0.31194615364074707,7.196511507034302,Checkmate! Winner is black
+JernoIsBot__J_Beuker,bot_number_piece,white,4.413745164871216,5.621685743331909,Checkmate! Winner is white
+JernoIsBot__J_Beuker,bot_number_piece,,6.166350364685059,3.675035238265991,Fivefold repetition! It's a draw.
+JernoIsBot__J_Beuker,bot_number_piece,white,4.553280353546143,4.919819116592407,Checkmate! Winner is white
+bot_number_piece,JernoIsBot__J_Beuker,black,5.771428108215332,3.912104606628418,Checkmate! Winner is black
+bot_number_piece,JernoIsBot__J_Beuker,black,2.5761420726776123,2.0875630378723145,Checkmate! Winner is black
+bot_number_piece,JernoIsBot__J_Beuker,black,5.754805088043213,3.8545968532562256,Checkmate! Winner is black
+JernoIsBot__J_Beuker,bot_piece_value,white,1.3826122283935547,1.6615686416625977,Checkmate! Winner is white
+JernoIsBot__J_Beuker,bot_piece_value,white,0.8356168270111084,1.5969176292419434,Checkmate! Winner is white
+JernoIsBot__J_Beuker,bot_piece_value,white,2.0175187587738037,2.02549409866333,Checkmate! Winner is white
+bot_piece_value,JernoIsBot__J_Beuker,black,2.639163017272949,2.0317344665527344,Checkmate! Winner is black
+bot_piece_value,JernoIsBot__J_Beuker,black,7.436489820480347,4.323350667953491,Checkmate! Winner is black
+bot_piece_value,JernoIsBot__J_Beuker,,7.13625431060791,6.640790224075317,Fivefold repetition! It's a draw.
+JernoIsBot__J_Beuker,bot_random,white,5.957212448120117,0.0018346309661865234,Checkmate! Winner is white
+JernoIsBot__J_Beuker,bot_random,white,4.5993568897247314,0.0018177032470703125,Checkmate! Winner is white
+JernoIsBot__J_Beuker,bot_random,white,2.453312873840332,0.0009667873382568359,Checkmate! Winner is white
+bot_random,JernoIsBot__J_Beuker,black,0.002922534942626953,7.531347751617432,Checkmate! Winner is black
+bot_random,JernoIsBot__J_Beuker,black,0.0034132003784179688,11.027455568313599,Checkmate! Winner is black
+bot_random,JernoIsBot__J_Beuker,black,0.0025582313537597656,10.200969934463501,Checkmate! Winner is black
+Odysseus__m_lindenburger_1,bot_number_piece,,0.28795552253723145,5.863563537597656,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,bot_number_piece,,0.29915475845336914,6.18393349647522,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,bot_number_piece,,0.29114842414855957,5.884181022644043,Fivefold repetition! It's a draw.
+bot_number_piece,Odysseus__m_lindenburger_1,,15.506147623062134,0.5911166667938232,Fivefold repetition! It's a draw.
+bot_number_piece,Odysseus__m_lindenburger_1,,5.017354726791382,0.22285819053649902,Fivefold repetition! It's a draw.
+bot_number_piece,Odysseus__m_lindenburger_1,,16.899818658828735,0.597421407699585,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,bot_piece_value,,0.31077098846435547,4.955166339874268,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,bot_piece_value,white,0.4358537197113037,5.957034349441528,Checkmate! Winner is white
+Odysseus__m_lindenburger_1,bot_piece_value,,0.32096076011657715,4.956313610076904,Fivefold repetition! It's a draw.
+bot_piece_value,Odysseus__m_lindenburger_1,,10.121944665908813,0.3706843852996826,Fivefold repetition! It's a draw.
+bot_piece_value,Odysseus__m_lindenburger_1,,9.896319150924683,0.35696840286254883,Fivefold repetition! It's a draw.
+bot_piece_value,Odysseus__m_lindenburger_1,,12.575555324554443,0.48520779609680176,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,bot_random,,1.9081065654754639,0.005876779556274414,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,bot_random,,7.168238162994385,0.010531425476074219,Fivefold repetition! It's a draw.
+Odysseus__m_lindenburger_1,bot_random,,4.283288240432739,0.007744789123535156,Fivefold repetition! It's a draw.
+bot_random,Odysseus__m_lindenburger_1,white,0.009480953216552734,2.343489646911621,Checkmate! Winner is white
+bot_random,Odysseus__m_lindenburger_1,white,0.004631519317626953,1.0425593852996826,Checkmate! Winner is white
+bot_random,Odysseus__m_lindenburger_1,white,0.018795490264892578,5.336946725845337,Checkmate! Winner is white
+bot_number_piece,bot_piece_value,white,4.4253339767456055,2.854923725128174,Checkmate! Winner is white
+bot_number_piece,bot_piece_value,white,3.3401973247528076,2.363353729248047,Checkmate! Winner is white
+bot_number_piece,bot_piece_value,white,3.386929988861084,2.405060291290283,Checkmate! Winner is white
+bot_piece_value,bot_number_piece,,10.103805303573608,8.608988523483276,Fivefold repetition! It's a draw.
+bot_piece_value,bot_number_piece,,4.459425687789917,5.685391426086426,Fivefold repetition! It's a draw.
+bot_piece_value,bot_number_piece,white,4.484318017959595,2.86393141746521,Checkmate! Winner is white
+bot_number_piece,bot_random,,10.190038442611694,0.005089282989501953,Fivefold repetition! It's a draw.
+bot_number_piece,bot_random,,16.255574941635132,0.009963274002075195,Fivefold repetition! It's a draw.
+bot_number_piece,bot_random,,26.57859778404236,0.010386943817138672,Fivefold repetition! It's a draw.
+bot_random,bot_number_piece,,0.008791446685791016,16.70924997329712,Fivefold repetition! It's a draw.
+bot_random,bot_number_piece,,0.00928044319152832,19.94014072418213,Fivefold repetition! It's a draw.
+bot_random,bot_number_piece,,0.011935234069824219,25.87407112121582,Fivefold repetition! It's a draw.
+bot_piece_value,bot_random,,9.776721715927124,0.005200386047363281,Fivefold repetition! It's a draw.
+bot_piece_value,bot_random,,18.48415994644165,0.008218050003051758,Fivefold repetition! It's a draw.
+bot_piece_value,bot_random,,23.186059713363647,0.01498103141784668,Fivefold repetition! It's a draw.
+bot_random,bot_piece_value,,0.006506919860839844,12.388097286224365,Fivefold repetition! It's a draw.
+bot_random,bot_piece_value,,0.008349895477294922,14.160782098770142,Fivefold repetition! It's a draw.
+bot_random,bot_piece_value,,0.00781869888305664,15.991445064544678,Fivefold repetition! It's a draw.
