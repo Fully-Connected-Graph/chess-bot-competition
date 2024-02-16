@@ -10,15 +10,15 @@ The leaderboard will be updated at midnight every day.
   - https://forms.gle/jszsX8SvETQWobkP6
 
 
-**LEADERBOARD** (updated 15 Feb 2023)
+**LEADERBOARD** (updated 16 Feb 2023)
 
 |    | bot                        |   wins |   draws |   losses |   score |
 |---:|:---------------------------|-------:|--------:|---------:|--------:|
-|  0 | JernoIsBot__J_Beuker       |     21 |       3 |        0 |    22.5 |
-|  1 | bot_number_piece           |      3 |      15 |        6 |    10.5 |
-|  2 | bot_random                 |      3 |      15 |        6 |    10.5 |
-|  3 | Odysseus__m_lindenburger_1 |      1 |      15 |        8 |     8.5 |
-|  4 | bot_piece_value            |      1 |      14 |        9 |     8   |
+|  0 | JernoIsBot__J_Beuker       |     18 |       6 |        0 |    21   |
+|  1 | bot_random                 |      3 |      15 |        6 |    10.5 |
+|  2 | bot_number_piece           |      1 |      18 |        5 |    10   |
+|  3 | Odysseus__m_lindenburger_1 |      0 |      19 |        5 |     9.5 |
+|  4 | bot_piece_value            |      0 |      18 |        6 |     9   |
 
 **Notifications**
 
