@@ -19,7 +19,11 @@ class ChessBot(ChessBotClass):
         self._max_depth = max_depth
 
     def evaluate_board(self, board: chess.Board, color: chess.Color) -> float:
-        return sum([piece.color == color for piece in board.piece_map().values()])
+        return (
+            sum([piece.color == color for piece in board.piece_map().values()])
+            + random.random() * 0.1
+            - 0.05
+        )
 
     def minimax(
         self,

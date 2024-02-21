@@ -29,7 +29,7 @@ class ChessBot(ChessBotClass):
     def evaluate_board(self, board: chess.Board, color: chess.Color) -> float:
         return sum(
             [
-                self.piece_values[piece.piece_type]
+                self.piece_values[piece.piece_type] + random.random() * 0.1 - 0.05
                 for piece in board.piece_map().values()
                 if piece.color == color
             ]
