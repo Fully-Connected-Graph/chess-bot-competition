@@ -1,4 +1,5 @@
 bots/*.py
+bots/hidden/*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

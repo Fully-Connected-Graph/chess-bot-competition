@@ -14,15 +14,19 @@ The leaderboard will be updated at midnight every day.
   - https://forms.gle/jszsX8SvETQWobkP6
 
 
-**LEADERBOARD** (updated 21 Feb 2024)
+**LEADERBOARD** (updated 24 Feb 2024, took 2 hours to run)
 
-|    | bot                        |   wins |   draws |   losses |   score |
-|---:|:---------------------------|-------:|--------:|---------:|--------:|
-|  0 | JernoIsBot__J_Beuker       |     23 |       1 |        0 |    23.5 |
-|  1 | Odysseus__m_lindenburger_1 |     17 |       0 |        7 |    17   |
-|  2 | bot_random                 |      2 |      10 |       12 |     7   |
-|  3 | bot_piece_value            |      3 |       7 |       14 |     6.5 |
-|  4 | bot_number_piece           |      1 |      10 |       13 |     6   |
+|    | bot                       |   wins |   draws |   losses |    avg_time |   score |
+|---:|:--------------------------|-------:|--------:|---------:|------------:|--------:|
+|  0 | GoldFish_D_Windt          |     36 |      11 |        1 | 39.3191     |    41.5 |
+|  1 | JernoIsBot_J_Beuker       |     38 |       7 |        3 |  4.81122    |    41.5 |
+|  2 | Odysseus_M_Lindenburger_5 |     31 |       3 |       14 | 42.0572     |    32.5 |
+|  3 | mvg_bot_M_V_Gonul         |     28 |       7 |       13 | 61.4254     |    31.5 |
+|  4 | cheeser_R_J_Douma_1       |     15 |       9 |       24 |  0.007761   |    19.5 |
+|  5 | AnonyBot_L_August         |     13 |       6 |       29 |  4.32982    |    16   |
+|  6 | bot_piece_value           |      7 |      12 |       29 |  1.8849     |    13   |
+|  7 | bot_number_piece          |      5 |      14 |       29 |  2.24077    |    12   |
+|  8 | bot_random                |      3 |      11 |       34 |  0.00305928 |     8.5 |
 
 **Notifications**
 
